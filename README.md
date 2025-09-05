@@ -14,5 +14,6 @@ Passos a passo para iniciar e executar o XAMPP:
 5. O navegador exibirá o resultado da execução do script, permitindo que você veja os teste do código.
 
   _Documentação:_
+  Funcões:
 
   
