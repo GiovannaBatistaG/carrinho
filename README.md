@@ -13,4 +13,6 @@ Passos a passo para iniciar e executar o XAMPP:
 4. Abra um navegador da web e digite http://localhost seguido do nome do seu arquivo PHP (por exemplo, http://localhost/meu_script.php) na barra de endereços. 
 5. O navegador exibirá o resultado da execução do seu script, permitindo que você veja os teste do código.
 
- _Documentação:_
+  _Documentação:_
+
+  
