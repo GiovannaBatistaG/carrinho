@@ -2,8 +2,8 @@
 
 Integrantes:
 
-- Alani Rodrigues  RA:
-- Giovanna Batista RA:
+- Alani Rodrigues  RA: 1986006
+- Giovanna Batista RA:1991571
 
 
 Passos a passo para iniciar e executar o XAMPP:
